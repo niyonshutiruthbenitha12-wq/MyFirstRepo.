@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Ruth Benitha Niyonshuti, and I am passionate about learning technology and improving my skills in digital tools like Git and GitHub. I enjoy exploring new opportunities in education and innovation, especially those that help solve real-world problems in Africa.
+
+I am currently building my knowledge step by step, and this repository is part of my journey to understand version control and collaboration in software development.
